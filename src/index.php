@@ -7,8 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-
-<?php echo "pipeline prueba ";?>
-    
+<?php echo "pipeline prueba hola mundo ";?>    
 </body>
 </html>
